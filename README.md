@@ -1,4 +1,5 @@
 # Vond-Scraper
+[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)  
 A proxy scraper using Proxyscrape API to scrape HTTP/SOCKS4/SOCKS5 Proxies!
 ## Requirements
 Requests
